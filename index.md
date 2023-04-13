@@ -57,9 +57,9 @@ Presentations
 - **Grade: A**
 
 
-### [Presentation 2 Title](/pdf/Database_Project.pdf)
+### [Presentation 2 Title](/pdf/Stargel_Global_Hotspot_Brief.pdf)
 
-- **Class: CSCI 419 Database Management** 
+- **Class: AERO 401 National Security & Leadership Responsibilities I** 
 - **Grade: A**
 
 ---
