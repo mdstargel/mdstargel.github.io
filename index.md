@@ -51,7 +51,7 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/Database Project - Poston and Stargel.pdf)
+### [Presentation 1 Title](/pdf/Security Presentation - CSCI 301 Spring '21 - Stargel.pdf)
 
 - **Class:** 
 - **Grade:**
