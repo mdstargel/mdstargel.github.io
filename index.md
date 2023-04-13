@@ -51,13 +51,13 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/Security_Presentation.pdf")
+### [Presentation 1 Title](/pdf/Security_Presentation.pdf)
 
 - **Class: CSCI 301 Spring '21** 
 - **Grade: A**
 
 
-### [Presentation 2 Title](/pdf/Database_Project.pdf")
+### [Presentation 2 Title](/pdf/Database_Project.pdf)
 
 - **Class: CSCI XXX Database Management** 
 - **Grade: A**
