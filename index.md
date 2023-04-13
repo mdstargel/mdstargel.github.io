@@ -31,19 +31,19 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/CSCI_415_Ethics_Paper.pdf)
+### [Privacy and Anonymity](/pdf/CSCI_415_Ethics_Paper.pdf)
 
 -   **Class: CSCI 415 Algorithms**  
 -   **Grade: A**
 
-### [Paper 2 Title](/pdf/CSCI_325_Ethics_Paper.pdf)
-
--   **Class: CSCI 325 Object-Oriented Programming** 
--   **Grade: A**
-
-### [Paper 3 Title](/pdf/CSCI_315_Ethics_Paper.pdf)
+### [Ethics in Computer Testing](/pdf/CSCI_315_Ethics_Paper.pdf)
 
 -   **Class: CSCI 315 Data Structure Analysis** 
+-   **Grade: A**
+
+### [Ethical Dilemmas in the Workplace](/pdf/CSCI_325_Ethics_Paper.pdf)
+
+-   **Class: CSCI 325 Object-Oriented Programming** 
 -   **Grade: A**
 
 ---
@@ -51,13 +51,13 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/Security_Presentation.pdf)
+### [Security Presentation](/pdf/Security_Presentation.pdf)
 
 - **Class: CSCI 301 Survey of Scripting Languages** 
 - **Grade: A**
 
 
-### [Presentation 2 Title](/pdf/Stargel_Global_Hotspot_Brief.pdf)
+### [Global Hotspot Brief - Israel](/pdf/Stargel_Global_Hotspot_Brief.pdf)
 
 - **Class: AERO 401 National Security & Leadership Responsibilities I** 
 - **Grade: A**
