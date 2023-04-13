@@ -51,16 +51,16 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/"Security Presentation - CSCI 301 Spring '21 - Stargel.pdf")
+### [Presentation 1 Title](/pdf/Security_Presentation.pdf")
 
-- **Class:** 
-- **Grade:**
+- **Class: CSCI 301 Spring '21** 
+- **Grade: A**
 
 
-### [Presentation 2 Title](/pdf/"Database Project - Poston and Stargel.pdf")
+### [Presentation 2 Title](/pdf/Database_Project.pdf")
 
-- **Class:** 
-- **Grade:**
+- **Class: CSCI XXX Database Management** 
+- **Grade: A**
 
 ---
 
