@@ -51,13 +51,13 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [Presentation 1 Title](/pdf/Database Project - Poston and Stargel.pdf)
 
 - **Class:** 
 - **Grade:**
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [Presentation 2 Title](/pdf/Database Project - Poston and Stargel.pdf)
 
 - **Class:** 
 - **Grade:**
