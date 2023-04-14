@@ -17,17 +17,17 @@ Programming Projects
 ![Project 2 Thumbnail Name](images/sudoku.jpg)
 
 ---
-### [Minimum Overlap Coverage | CSCI 315](project2)
+### [Minimum Overlap Coverage | CSCI 315](project3)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Magic Number Guessing Game | CSCI 301](project5)
+### [Magic Number Guessing Game | CSCI 301](project4)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Client Server Data Transfer | CSCI 332](project3)
+### [Client Server Data Transfer | CSCI 332](project5)
 
 ![Project 5 Thumbnail Name](images/dummy_thumbnail.jpg)
 
