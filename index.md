@@ -9,7 +9,7 @@ Programming Projects
 ---
 ### [Dijkstra Algorithm for GPS Graph | CSCI 415](project1)
 
-![Project 1 | Algorithms](images/dummy_thumbnail.jpg)
+![Project 1 | Algorithms](images/dijkstra.jpg)
 
 ---
 ### [Sudoku Puzzle Validator | CSCI 431](project2)
