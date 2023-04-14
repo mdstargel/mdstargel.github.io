@@ -1,11 +1,11 @@
 [Back to Portfolio](./)
 
-Client Server Data Transfer
+Magic Number Guessing Game
 ===========================
 
--   **Class: CSCI 332 Applied Networking** 
+-   **Class: CSCI 301 - Survey of Scripting Languages** 
 -   **Grade: A** 
--   **Language(s): C++** 
+-   **Language(s): Perl** 
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
