@@ -3,7 +3,7 @@
 Sudoku Puzzle Validator
 =======================
 
--   **Class: CSCI 431 Operating Systems** 
+-   **Class: CSCI 431 - Operating Systems** 
 -   **Grade: A** 
 -   **Language(s): C** 
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
