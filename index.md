@@ -24,7 +24,7 @@ Programming Projects
 ---
 ### [Magic Number Guessing Game | CSCI 301](project4)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 4 Thumbnail Name](images/magic.jpg)
 
 ---
 ### [Client Server Data Transfer | CSCI 332](project5)
