@@ -29,7 +29,7 @@ Programming Projects
 ---
 ### [Client Server Data Transfer | CSCI 332](project5)
 
-![Project 5 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 5 Thumbnail Name](images/data.jpg)
 
 ---
 
