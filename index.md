@@ -27,7 +27,7 @@ Programming Projects
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Magic Number Guessing Game | CSCI 301 Survey of Scripting Languages](project4)
+### [Magic Number Guessing Game | CSCI 301 Survey of Scripting Languages](project5)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
