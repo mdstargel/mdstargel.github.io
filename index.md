@@ -12,24 +12,24 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Minimum Overlap Coverage | CSCI 315](project2)
-
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
-
----
 ### [Sudoku Puzzle Validator | CSCI 431](project2)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Client Server Data Transfer | CSCI 332](project3)
+### [Minimum Overlap Coverage | CSCI 315](project2)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
 ### [Magic Number Guessing Game | CSCI 301](project5)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+
+---
+### [Client Server Data Transfer | CSCI 332](project3)
+
+![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
 
@@ -38,17 +38,17 @@ Ethics Papers
 
 ### [Privacy and Anonymity](/pdf/CSCI_415_Ethics_Paper.pdf)
 
--   **Class: CSCI 415 Algorithms**  
+-   **Class: Algorithms (CSCI 415)**  
 -   **Grade: A**
 
 ### [Ethics in Computer Testing](/pdf/CSCI_315_Ethics_Paper.pdf)
 
--   **Class: CSCI 315 Data Structure Analysis** 
+-   **Class: Data Structure Analysis (CSCI 315)** 
 -   **Grade: A**
 
 ### [Ethical Dilemmas in the Workplace](/pdf/CSCI_325_Ethics_Paper.pdf)
 
--   **Class: CSCI 325 Object-Oriented Programming** 
+-   **Class: Object-Oriented Programming (CSCI 325)** 
 -   **Grade: A**
 
 ---
@@ -56,15 +56,14 @@ Ethics Papers
 Presentations
 -------------
 
-### [Security Presentation](/pdf/Security_Presentation.pdf)
-
-- **Class: CSCI 301 Survey of Scripting Languages** 
-- **Grade: A**
-
-
 ### [Global Hotspot Brief - Israel](/pdf/Stargel_Global_Hotspot_Brief.pdf)
 
-- **Class: AERO 401 National Security & Leadership Responsibilities I** 
+- **Class: National Security & Leadership Responsibilities I (AERO 401)** 
+- **Grade: A**
+
+### [Security Presentation](/pdf/Security_Presentation.pdf)
+
+- **Class: Survey of Scripting Languages (CSCI 301)** 
 - **Grade: A**
 
 ---
