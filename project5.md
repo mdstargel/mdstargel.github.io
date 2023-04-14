@@ -3,7 +3,7 @@
 Magic Number Guessing Game
 ===========================
 
--   **Class: CSCI 301 - Survey of Scripting Languages** 
+-   **Class: Survey of Scripting Languages (CSCI 301)** 
 -   **Grade: A** 
 -   **Language(s): Perl** 
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
