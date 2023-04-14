@@ -19,7 +19,7 @@ Programming Projects
 ---
 ### [Minimum Overlap Coverage | CSCI 315](project3)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 3 Thumbnail Name](images/overlap.jpg)
 
 ---
 ### [Magic Number Guessing Game | CSCI 301](project4)
