@@ -3,7 +3,7 @@
 Client Server Data Transfer
 ===========================
 
--   **Class: CSCI 332 Applied Networking** 
+-   **Class: CSCI 332 - Applied Networking** 
 -   **Grade: A** 
 -   **Language(s): C++** 
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
