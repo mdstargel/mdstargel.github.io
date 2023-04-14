@@ -7,7 +7,7 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:mdstargel@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Dijkstra's Algorithm for Graph | CSCI 415 Algorithms](project1)
+### [Dijkstra Algorithm for GPS Graph | CSCI 415 Algorithms](project1)
 
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
