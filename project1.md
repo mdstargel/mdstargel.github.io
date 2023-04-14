@@ -1,11 +1,11 @@
 [Back to Portfolio](./)
 
-Project 1 Title
-===============
+Dijkstra Algorithm for GPS Graph
+================================
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
+-   **Class: CSCI 415 Algorithms** 
+-   **Grade: A** 
+-   **Language(s): C++** 
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
