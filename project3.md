@@ -1,11 +1,11 @@
 [Back to Portfolio](./)
 
-Project 3 Title
-===============
+Sudoku Puzzle Validator
+=======================
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
+-   **Class: CSCI 431 Operating Systems** 
+-   **Grade: A** 
+-   **Language(s): C** 
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
