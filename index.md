@@ -14,7 +14,7 @@ Programming Projects
 ---
 ### [Sudoku Puzzle Validator | CSCI 431](project2)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 2 Thumbnail Name](images/sudoku.jpg)
 
 ---
 ### [Minimum Overlap Coverage | CSCI 315](project2)
