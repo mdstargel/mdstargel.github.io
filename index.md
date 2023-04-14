@@ -7,22 +7,27 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:mdstargel@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Project 1 Title | CSCI 301](project1)
+### [Algorithms Project 2 | CSCI 415](project1)
 
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 2 Title | CSCI 315](project2)
+### [Data Structures Project 4 | CSCI 315](project2)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 3 Title | CSCI 325](project3)
+### [Sudoku Puzzle Validator | CSCI 431](project2)
+
+![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+
+---
+### [Client Server Data Transfer | CSCI 332](project3)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 4 Title | CSCI 332](project4)
+### [Magic Number Guessing Game | CSCI 301](project4)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
