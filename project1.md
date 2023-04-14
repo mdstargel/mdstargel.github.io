@@ -3,7 +3,7 @@
 Dijkstra Algorithm for GPS Graph
 ================================
 
--   **Class: CSCI 415 Algorithms** 
+-   **Class: CSCI 415 - Algorithms** 
 -   **Grade: A** 
 -   **Language(s): C++** 
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
