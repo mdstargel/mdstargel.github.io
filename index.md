@@ -9,7 +9,7 @@ Programming Projects
 ---
 ### [Dijkstra Algorithm for GPS Graph | CSCI 415](project1)
 
-![Project 1 | Algorithms](images/dijkstra.jpg)
+![Project 1 Thumbnail Name](images/dijkstra.jpg)
 
 ---
 ### [Sudoku Puzzle Validator | CSCI 431](project2)
@@ -19,7 +19,7 @@ Programming Projects
 ---
 ### [Minimum Overlap Coverage | CSCI 315](project2)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
 ### [Magic Number Guessing Game | CSCI 301](project5)
@@ -29,7 +29,7 @@ Programming Projects
 ---
 ### [Client Server Data Transfer | CSCI 332](project3)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 5 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
 
