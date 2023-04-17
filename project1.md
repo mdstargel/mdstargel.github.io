@@ -6,8 +6,8 @@ Dijkstra Algorithm for GPS Graph
 -   **Class: Algorithms (CSCI 415)** 
 -   **Grade: A** 
 -   **Language(s): C++** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Source Code Repository:** [mdstargel/dijkstra-algorithm-project](https://github.com/mdstargel/dijkstra-algorithm-project)  
+    (Please [email me](mailto:mdstargel@csustudent.net?subject=GitHub%20Access%20Dijkstra%20Project to request access.)
 
 ## Project description
 
