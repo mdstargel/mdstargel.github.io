@@ -6,8 +6,8 @@ Client Server Data Transfer
 -   **Class: Applied Networking (CSCI 332)** 
 -   **Grade: A** 
 -   **Language(s): C++** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:mdstargel@csustudent.net?subject=GitHub%20Access%20-%20Data%20Transfer%20Project) to request access.)
+-   **Source Code Repository:** [mdstargel/client-server-project](https://github.com/mdstargel/client-server-project)  
+    (Please [email me](mailto:mdstargel@csustudent.net?subject=GitHub%20Access%20-%20Client%20Server%20Project) to request access.)
 
 ## Project description
 
