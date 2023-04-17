@@ -6,7 +6,7 @@ Magic Number Guessing Game
 -   **Class: Survey of Scripting Languages (CSCI 301)** 
 -   **Grade: A** 
 -   **Language(s): Perl** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [mdstargel/magic-number-guessing](https://github.com/mdstargel/magic-number-guessing)  
     (Please [email me](mailto:mdstargel@csustudent.net?subject=GitHub%20Access%20-%20Guessing%20Game) to request access.)
 
 ## Project description
