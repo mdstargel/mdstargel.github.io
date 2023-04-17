@@ -4,7 +4,7 @@ Minimum Overlap Coverage
 ========================
 
 -   **Class: Data Structure Analysis (CSCI 315)** 
--   **Grade: A+** 
+-   **Grade: A+ (over 100%)** 
 -   **Language(s): C++** 
 -   **Source Code Repository:** [mdstargel/minimum-overlap-coverage](https://github.com/mdstargel/minimum-overlap-coverage)  
     (Please [email me](mailto:mdstargel@csustudent.net?subject=GitHub%20Access%20-%20Overlap%20Project) to request access.)
