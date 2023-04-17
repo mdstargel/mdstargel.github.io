@@ -7,7 +7,7 @@ Sudoku Puzzle Validator
 -   **Grade: A** 
 -   **Language(s): C** 
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:mdstargel@csustudent.net?subject=GitHub%20Access%20-%Sudoku%20Project) to request access.)
+    (Please [email me](mailto:mdstargel@csustudent.net?subject=GitHub%20Access%20-%20Sudoku%20Project) to request access.)
     
 ## Project description
 
