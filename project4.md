@@ -7,7 +7,7 @@ Magic Number Guessing Game
 -   **Grade: A** 
 -   **Language(s): Perl** 
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+    (Please [email me](mailto:mdstargel@csustudent.net?subject=GitHub%20Access%20-%20Guessing%20Game) to request access.)
 
 ## Project description
 
