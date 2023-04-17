@@ -65,7 +65,8 @@ Presentations
 
 - **Class: Survey of Scripting Languages (CSCI 301)** 
 - **Grade: A**
-- **Link: [Presentation Video](https://youtu.be/fo6R2U7Mz9E)**
+
+  Click [here](https://youtu.be/fo6R2U7Mz9E) for the presentation video.
 ---
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/csu-cs/csci-portfolio">CSU-CS</a></p>
