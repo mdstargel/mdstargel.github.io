@@ -6,7 +6,7 @@ Sudoku Puzzle Validator
 -   **Class: Operating Systems (CSCI 431)** 
 -   **Grade: A** 
 -   **Language(s): C** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [mdstargel/soduku-puzzle-validator](https://github.com/mdstargel/soduku-puzzle-validator)  
     (Please [email me](mailto:mdstargel@csustudent.net?subject=GitHub%20Access%20-%20Sudoku%20Project) to request access.)
     
 ## Project description
