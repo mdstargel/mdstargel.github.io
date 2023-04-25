@@ -1,7 +1,8 @@
+# Sudoku
+
 [Back to Portfolio](./)
 
-Sudoku Puzzle Validator
-=======================
+<h2 style="font-size: 30px">Sudoku Puzzle Validator</h2>
 
 -   **Class: Operating Systems (CSCI 431)** 
 -   **Grade: A** 
