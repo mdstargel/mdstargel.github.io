@@ -34,13 +34,13 @@ perl guessing.pl
 4. Give user option to quit with escape "character" (9999) each time or enter numbers to keep guessing.
 
 ![Game 1](images/game-y.jpg)  
-Fig 1. A successful game then play again
+_Fig 1. A successful game then play again._
 
 ![Game 2](images/game-n.jpg)  
-Fig 2. A successful game then do not play again.
+_Fig 2. A successful game then do not play again._
 
 ![Errors](images/errors.jpg)  
-Fig 3. Errors and Escape Character.
+_Fig 3. Errors and Escape Character._
 
 ## 3. Additional Considerations
 
