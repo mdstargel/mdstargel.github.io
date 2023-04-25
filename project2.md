@@ -19,28 +19,22 @@ This program reads in a sudoku board from the source code and checks it's validi
 How to compile (if applicable) and run the project.
 
 ```bash
-cd ./project
-python setup.py
+gcc -Wextra sudokuValidator.c -o sv && ./sv
 ```
-
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
 
 ## UI Design
 
+1. Divide the Sudoku grid into nine 3x3 subgrids, each containing nine cells.
+2. Create a thread pool with nine threads, one for each subgrid.
+3. For each subgrid, create a new thread that will validate it.
+4. Each subgrid validation thread will check if the subgrid contains all numbers from 1 to 9 without repetition. It will also notify a shared boolean variable if it finds any duplicate numbers in the subgrid.
+5. After all subgrid threads have finished executing, check the shared boolean variable. If it's false, the Sudoku puzzle is valid. If it's true, the puzzle is invalid.
+6. Output "Sudoku puzzle is valid!" or "Sudoku puzzle is invalid! Check row: #, column: #, box: #"
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+![Valid](images/valid.jpg)  
+Fig 1. Valid Puzzle.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
-
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
-
-## 3. Additional Considerations
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![screenshot](images/invalid.jpg)  
+Fig 2. Invalid Puzzle.
 
 [Back to Portfolio](./)
