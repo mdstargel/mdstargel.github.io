@@ -2,8 +2,10 @@
 
 <link rel="icon" type="image/x-con" href="/favicon.ico">
 
-Programming Projects
---------------------
+## Senior Portfolio
+
+My Programming Projects
+-----------------------
 
 *For access to my private project repositories, please [email me](mailto:mdstargel@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
