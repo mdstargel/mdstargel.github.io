@@ -28,11 +28,11 @@ perl guessing.pl
 
 ## UI Design
 
-1. Have the computer randomly assign a number to a variable
+1. Have the computer randomly assign a number to a variable.
 2. Receive user input and have the computer say whether it’s higher or lower than the variable.
-3. If the number is the same as the variable, congratulate user and end game
-4. Give user option to quit with escape "character" (9999) each time or enter numbers to keep guessing.
-
+3. If the number is the same as the variable, congratulate user and end game.
+4. Give user option to quit with escape "character" (9999) each time or enter numbers to keep guessing.  
+\
 ![Game 1](images/game-y.jpg)  
 _Fig 1. A successful game then play again._  
 \
@@ -42,7 +42,7 @@ _Fig 2. A successful game then do not play again._
 ![Errors](images/errors.jpg)  
 _Fig 3. Errors and Escape Character._  
 
-## 3. Additional Considerations
+## Additional Considerations
 
 - Display useful error messages.
 - Give user option to exit at anytime.
