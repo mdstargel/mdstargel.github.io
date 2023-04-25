@@ -2,7 +2,7 @@
 
 <link rel="icon" type="image/x-con" href="/favicon.ico">
 
-<h1 style="display: initial">Micah's Portfolio</h1>
+<p><h1 style="display: initial">Micah's Portfolio</h1></p>
 
 Programming Projects
 -------------------------------------
