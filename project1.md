@@ -29,28 +29,28 @@ If the programming language does not require compilation, the update the heading
 2. Output all the charts from each starting vertex.
 
 ![Example Matrix](images/example-matrix.jpg)  
-_Fig 1. Example Matrix._
+_Fig 1. Example Matrix._  
 
 ![Example Chart](images/example-chart.jpg)  
-_Fig 2. Example output after input is processed._
+_Fig 2. Example output after input is processed._  
 
 ![Output a-b](images/output-matrix-ab.jpg)  
-_Fig 3. Output Matrix and Charts (a to b)._
+_Fig 3. Output Matrix and Charts (a to b)._  
 
 ![Output c-e](images/output-cde.jpg)  
-_Fig 4. Output Charts (c to e)._
+_Fig 4. Output Charts (c to e)._  
 
 ![Output f-i](images/output-fghi.jpg)  
-_Fig 5. Output Charts (f to i)._
+_Fig 5. Output Charts (f to i)._  
 
 ![Output j](images/output-j.jpg)  
-_Fig 6. Output Chart (j)._
+_Fig 6. Output Chart (j)._  
 
 ![Expected Chart Explained](images/d-start-desired.png)  
-_Fig 7. Output Chart example (d) explained in realtion to output chart example._
+_Fig 7. Expected Chart example (vertex d) explained in realtion to output chart example._  
 
 ![Output Chart Explained](images/d-start-output.png)  
-_Fig 8. Output Chart example (vertex d) explained in relation to example expected chart._
+_Fig 8. Output Chart example (vertex d) explained in relation to example expected chart._  
 
 ## 3. Additional Considerations
 
