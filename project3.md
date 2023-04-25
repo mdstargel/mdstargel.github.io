@@ -50,24 +50,24 @@ Algorithm Setup
 - **RESULT** is what is leftover from removing the evaluating set.
 
 ![Examples](images/examples.jpg)  
-_Fig 1. Desired Output._
-
+_Fig 1. Desired Output._  
+\
 ![Small30](images/small30.jpg)  
-_Fig 2. Output for small30._
-
+_Fig 2. Output for small30._  
+\
 ![Med30](images/med30.jpg)  
-_Fig 3. Output for med30._ 
-
+_Fig 3. Output for med30._  
+\
 ![Large30](images/large30.jpg)  
-_Fig 4. Output for large30._
-
+_Fig 4. Output for large30._  
+\
 ![Large50](images/large50.jpg)  
-_Fig 5. Output for large50._
-
+_Fig 5. Output for large50._  
+\
 ![Small100](images/small100.jpg)  
-_Fig 6. Output for small100._
+_Fig 6. Output for small100._  
 
-## 3. Additional Considerations
+## Additional Considerations
 
 Files
 - **data/\* :** groups of sets that represent the groups that may be present.
