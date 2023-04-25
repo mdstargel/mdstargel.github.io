@@ -17,3 +17,5 @@ github_username:  mdstargel # update with your username
 # Build setting
 theme: jekyll-theme-minimal
 
+plugins:
+  - jekyll-titles-from-headings
