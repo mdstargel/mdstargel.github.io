@@ -1,7 +1,8 @@
+# Min Overlap
+
 [Back to Portfolio](./)
 
-Minimum Overlap Coverage
-========================
+<h2 style="font-size: 30px">Minimum Overlap Coverage</h2>
 
 -   **Class: Data Structure Analysis (CSCI 315)** 
 -   **Grade: A+ (over 100%)** 
