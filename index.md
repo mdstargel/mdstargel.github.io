@@ -1,8 +1,10 @@
-# Portfolio
+# Home
 
 <link rel="icon" type="image/x-con" href="/favicon.ico">
 
-Senior Portfolio Programming Projects
+<h1 style="display: initial">Micah's Portfolio</h1>
+
+Programming Projects
 -------------------------------------
 
 *For access to my private project repositories, please [email me](mailto:mdstargel@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
