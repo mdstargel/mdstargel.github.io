@@ -1,7 +1,6 @@
 <link rel="icon" type="image/x-con" href="/favicon.ico">
 
-Portfolio
-=========
+# Portfolio
 
 Programming Projects
 --------------------
