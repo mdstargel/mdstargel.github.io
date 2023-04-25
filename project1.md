@@ -46,10 +46,10 @@ _Fig 5. Output Charts (f to i)._
 ![Output j](images/output-j.jpg)  
 _Fig 6. Output Chart (j)._
 
-![Expected Chart Explained](images/d-start-desired.jpg)  
+![Expected Chart Explained](images/d-start-desired.png)  
 _Fig 7. Output Chart example (d) explained in realtion to output chart example._
 
-![Output Chart Explained](images/d-start-output.jpg)  
+![Output Chart Explained](images/d-start-output.png)  
 _Fig 8. Output Chart example (vertex d) explained in relation to example expected chart._
 
 ## 3. Additional Considerations
