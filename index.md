@@ -2,10 +2,8 @@
 
 <link rel="icon" type="image/x-con" href="/favicon.ico">
 
-<h2 style="font-size: 40px font-weight: bold">Senior Portfolio</h2>
-
-My Programming Projects
------------------------
+Senior Portfolio Programming Projects
+-------------------------------------
 
 *For access to my private project repositories, please [email me](mailto:mdstargel@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
