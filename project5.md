@@ -15,24 +15,22 @@ Client Server Data Transfer
 
 ## Project description
 
-This program creates a UDP server side and client side terminal able to send or receive .txt files over the same network. By sending the file over from the server side, it sends and outputs individual strings and stitches them together in a new document on the client side named the same thing. It will not work if the document doesn’t exist.
+This program creates a UDP server side and client side terminal able to send or receive files over the same network. By sending the file over from the server side, it sends and outputs the file on the client side named the same thing. It will not work if the document doesn’t exist.
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
-
+Compile and Run (in two seperate terminals):
 ```bash
-g++ server.cpp && ./Server.out
+g++ udpTestServer.cpp && ./udpTestServer.out
 ```
 
 ```bash
-g++ client.cpp && ./Client.out
+g++ udpTestClient.cpp && ./udpTestClient.out
 ```
 
 ## UI Design
 
 The user can set up a server with a listening port to receive a file. The client enters the server port, server IP address, and the name of the file he/she wishes to send. If the file does not exist an error message will be shown.
-
 
 ![screenshot](images/dummy_thumbnail.jpg)  
 Fig 1. The launch screen
@@ -45,6 +43,6 @@ Fig 3. Feedback when an error occurs.
 
 ## 3. Additional Considerations
 
-The program outputs the part files as they are being sent or received to both terminals.
+- The program outputs the part files as they are being sent or received to both terminals.
 
 [Back to Portfolio](./)
