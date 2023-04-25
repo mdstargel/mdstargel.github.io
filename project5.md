@@ -1,6 +1,8 @@
+# Data Transfer
+
 [Back to Portfolio](./)
 
-Client Server Data Transfer
+<h2 style="font-size: 30px">Client Server Data Transfer</h2>
 ===========================
 
 -   **Class: Applied Networking (CSCI 332)** 
