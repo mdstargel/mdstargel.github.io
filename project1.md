@@ -1,7 +1,8 @@
+# Dijkstra Algorithm
+
 [Back to Portfolio](./)
 
-Dijkstra Algorithm for GPS Graph
-================================
+<h2 style="font-size: 30px">Dijkstra Algorithm for GPS Graph</h2>
 
 -   **Class: Algorithms (CSCI 415)** 
 -   **Grade: A** 
