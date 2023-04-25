@@ -1,7 +1,8 @@
+# Number Guessing
+
 [Back to Portfolio](./)
 
-Magic Number Guessing Game
-===========================
+<h2 style="font-size: 30px">Magic Number Guessing Game</h2>
 
 -   **Class: Survey of Scripting Languages (CSCI 301)** 
 -   **Grade: A** 
