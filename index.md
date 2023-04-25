@@ -2,8 +2,7 @@
 
 <link rel="icon" type="image/x-con" href="/favicon.ico">
 
-Senior Portfolio
-================
+<h2 style="font-size: 40px" font-weight="bold">Senior Portfolio</h2>
 
 My Programming Projects
 -----------------------
