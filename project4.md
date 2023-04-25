@@ -35,11 +35,13 @@ perl guessing.pl
 
 ![Game 1](images/game-y.jpg)  
 _Fig 1. A successful game then play again._
+
 /
 /
 
 ![Game 2](images/game-n.jpg)  
 _Fig 2. A successful game then do not play again._
+
 /
 /
 
