@@ -11,7 +11,7 @@ Sudoku Puzzle Validator
     
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This program reads in a sudoku board from a text file and incorporates it into a 9x9 matrix. The program then creates 11 variations of the struct for row and column information. Next the program creates the pthreads and calls the pthread functions. The functions check if each row, column and 3x3 subgrid (as determined in the struct) is valid (contains all numbers 1-9). If it is valid, the function updates the global array valid to read 1. If any row, column or 3x3 subgrid is not valid then the function updates the global array valid to read 0. Once all threads are finished and joined, a loop iterates through valid to check for 1s. If all elements are 1s, print out the "is Solved" statement and exit. If there is a 0, program prints out the "NOT Solved" statement and ends the program.
 
 ## How to compile and run the program
 
@@ -26,9 +26,22 @@ If the programming language does not require compilation, the update the heading
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
+"A Sudoku puzzle uses a 9 × 9 grid in which each column and row, as well as
+each of the nine 3 × 3 subgrids, must contain all of the digits 1 · · · 9. Figure
+4.19 presents an example of a valid Sudoku puzzle. This project consists of
+designing a multithreaded application that determines whether the solution to
+a Sudoku puzzle is valid. There are several different ways of multithreading this application. One
+suggested strategy is to create threads that check the following criteria:
+• A thread to check that each column contains the digits 1 through 9
+• A thread to check that each row contains the digits 1 through 9
+• Nine threads to check that each of the 3 × 3 subgrids contains the digits 1
+through 9
+This would result in a total of eleven separate threads for validating a
+Sudoku puzzle. However, you are welcome to create even more threads for
+this project. For example, rather than creating one thread that checks columns, you could create nine separate threads and have each of them check
+one column."
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+
 
 ![screenshot](images/dummy_thumbnail.jpg)  
 Fig 1. The launch screen
