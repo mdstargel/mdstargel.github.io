@@ -28,6 +28,7 @@ presentations) and a grade must be assigned for each group member.
 
 ## How to compile and run the program
 
+Compile & Run:
 ```bash
 make [name of data set]
 ```
