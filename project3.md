@@ -11,38 +11,75 @@ Minimum Overlap Coverage
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- This project implementation will find the Minimum Overlap of sets that cover all points. For
+example, suppose we have multiple group projects for our class that needed to be presented at the
+end of the semester. Your professor must grade every student at least once, but wants to minimize
+the number grades that must be performed. Your professor does not mind grading multiple projects.
+- Students are members of multiple projects, but only want to present once. How can we minimize
+the number of times a student has to present? Everyone in a group has to present (no partial group
+presentations) and a grade must be assigned for each group member.
+- To recap, here are the requirements in a list:
+  - Each student is issued an ID number starting at 0. We do not care about their names.
+  - Each group consisted of a set of numbers. A group cannot have duplicate students.
+  - A query consisted of a group of numbers. A student may be in there more than one (your professor misplaced a past grade.)
+  - When a group presents, all students are graded.
+  - Your function returns the minimum number of grades your professor has to assess.
+  - If it is not possible, return **UINT_MAX** (or −1, they are the same.)
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
-
 ```bash
-cd ./project
-python setup.py
+make [name of file]
 ```
 
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
+Examples: 
+```bash
+make small30
+```
+```bash
+make large50
+```
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
+Algorithm Setup
+- **SOFAR** represents the sets you have chosen.
+- **INPUT** represents the student/IDs that still need to be chosen.
+- **print** is for printing debug information when **true**.
+- **min** represents the minimum number of overlap found so far in a cover.
+- **RESULT** is what is leftover from removing the evaluating set.
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+![Examples](images/examples.jpg)  
+Fig 1. Desired Output.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+![Small30](images/small30.jpg)  
+Fig 2. Output for small30.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
+![Med30](images/med30.jpg)  
+Fig 3. Output for med30.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![Large30](images/large30.jpg)  
+Fig 4. Output for large30.
+
+![Large50](images/large50.jpg)  
+Fig 5. Output for large50.
+
+![Small100](images/small100.jpg)  
+Fig 6. Output for small100.
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Files
+- **data/\* :** groups of sets that represent the groups that may be present.
+- **src/main.cpp :** a general-purpose test program for running test cases on your code. It also
+produces timings.
+- **src/MinimumOverlap.hpp :** the class declaration that computes the minimum overlap.
+- **src/MinimumOverlap.cpp :** the source file for the class that computes the minimum
+overlap.
+- **data/simple.set :** the example data set provided below.
+- **data/small30.set :** small data set for evaluating basic timings.
+- **data/medium30.set :** the data set you should strive to master.
+- **data/large30.set :** a larger data set over **medium30.set**
+- **data/large50.set :** the largest data set I will test.
 
 [Back to Portfolio](./)
