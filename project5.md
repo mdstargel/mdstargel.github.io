@@ -16,7 +16,7 @@
 
 ## Project description
 
-This program creates a UDP server side and client side terminal able to send or receive files over the same network. By sending the file over from the server side, it sends and outputs the file on the client side named the same thing. It will not work if the document doesn’t exist.
+This program creates a UDP server side and client side terminal able to send or receive files over the same network. By sending the file line by line over from the server side, it sends and outputs the file on the client side named the same thing with the timestamp. It will not work if the document doesn’t exist.
 
 ## How to compile and run the program
 
@@ -33,14 +33,17 @@ g++ udpTestClient.cpp && ./udpTestClient.out
 
 The user can set up a server with a listening port to receive a file. The client enters the server port, server IP address, and the name of the file he/she wishes to send. If the file does not exist an error message will be shown.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+![Start](images/trans_start.jpg)  
+Fig 1. Start of File Transfer.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
+![Success](images/successful.jpg)  
+Fig 2. Successfull File Transfer.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![File DNE](images/file-not-found.jpg)  
+Fig 3. File Not Found Error Message.
+
+![Quit](images/quit.jpg)  
+Fig 4. Quit Before Transfer.
 
 ## 3. Additional Considerations
 
