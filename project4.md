@@ -46,6 +46,7 @@ Fig 3. Errors and Escape Character.
 
 - Display useful error messages.
 - Give user option to exit at anytime.
+- Accept capital and lowercase ("Y/N" or "y/n").
 
 
 [Back to Portfolio](./)
