@@ -29,7 +29,7 @@ presentations) and a grade must be assigned for each group member.
 ## How to compile and run the program
 
 ```bash
-make [name of file]
+make [name of data set]
 ```
 
 Examples: 
