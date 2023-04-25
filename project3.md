@@ -50,22 +50,22 @@ Algorithm Setup
 - **RESULT** is what is leftover from removing the evaluating set.
 
 ![Examples](images/examples.jpg)  
-Fig 1. Desired Output.
+_Fig 1. Desired Output._
 
 ![Small30](images/small30.jpg)  
-Fig 2. Output for small30.
+_Fig 2. Output for small30._
 
 ![Med30](images/med30.jpg)  
-Fig 3. Output for med30.
+_Fig 3. Output for med30._ 
 
 ![Large30](images/large30.jpg)  
-Fig 4. Output for large30.
+_Fig 4. Output for large30._
 
 ![Large50](images/large50.jpg)  
-Fig 5. Output for large50.
+_Fig 5. Output for large50._
 
 ![Small100](images/small100.jpg)  
-Fig 6. Output for small100.
+_Fig 6. Output for small100._
 
 ## 3. Additional Considerations
 
