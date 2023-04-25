@@ -2,7 +2,8 @@
 
 <link rel="icon" type="image/x-con" href="/favicon.ico">
 
-## Senior Portfolio
+Senior Portfolio
+================
 
 My Programming Projects
 -----------------------
