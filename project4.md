@@ -36,7 +36,7 @@ perl guessing.pl
 ![Game 1](images/game-y.jpg)  
 Fig 1. A successful game then play again
 
-![Game 2](images/dummy_thumbnail.jpg)  
+![Game 2](images/game-n.jpg)  
 Fig 2. A successful game then do not play again.
 
 ![Errors](images/errors.jpg)  
