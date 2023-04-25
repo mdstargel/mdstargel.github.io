@@ -17,8 +17,7 @@ Dijkstra Algorithm for GPS Graph
 
 Compile & Run:
 ```bash
- g++ -Wextra project2.cpp -o p2
- ./p2
+g++ -Wextra project2.cpp -o p2 && ./p2
 ```
 
 If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
