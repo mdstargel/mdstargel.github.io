@@ -33,17 +33,29 @@ g++ udpTestClient.cpp && ./udpTestClient.out
 
 The user can set up a server with a listening port to receive a file. The client enters the server port, server IP address, and the name of the file he/she wishes to send. If the file does not exist an error message will be shown.
 
-![Start](images/trans_start.jpg)  
-Fig 1. Start of File Transfer.
+![Start Server](images/trans-start-server.jpg)  
+Fig 1-1. Start of File Transfer (Server).
 
-![Success](images/successful.jpg)  
-Fig 2. Successfull File Transfer.
+![Start Client](images/trans-start-client.jpg)  
+Fig 1-. Start of File Transfer (Client).
 
-![File DNE](images/file-not-found.jpg)  
-Fig 3. File Not Found Error Message.
+![Success Server](images/successful-server.jpg)  
+Fig 2-1. Successfull File Transfer (Server).
 
-![Quit](images/quit.jpg)  
-Fig 4. Quit Before Transfer.
+![Success Client](images/successful-client.jpg)  
+Fig 2-2. Successfull File Transfer (Client).
+
+![File DNE Server](images/file-not-found-server.jpg)  
+Fig 3-1. File Not Found Error Message (Server).
+
+![File DNE Client](images/file-not-found-client.jpg)  
+Fig 3-2. File Not Found Error Message (Client).
+
+![Quit Server](images/quit-server.jpg)  
+Fig 4-1. Quit Before Transfer (Server).
+
+![Quit Client](images/quit-client.jpg)  
+Fig 4-2. Quit Before Transfer (Client).
 
 ## 3. Additional Considerations
 
